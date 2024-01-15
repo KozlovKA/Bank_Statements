@@ -1,9 +1,3 @@
-Certainly! Below is a sample `README.md` for your Python project, which includes a description of the project, setup
-instructions, and how to run the code. This README is designed to be clear and understandable, especially for someone
-setting up the project from scratch.
-
----
-
 # Email PDF Downloader and Merger
 
 ## Description
